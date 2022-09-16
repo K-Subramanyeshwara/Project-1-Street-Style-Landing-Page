@@ -1,17 +1,13 @@
+## ⭐ Project-1: Street Style Landing Page⭐
+This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
+
+
+<br>
 ## 🔗Project 1 Link
 https://fsjsbootcampproject1.netlify.app/
 
 
-
-## ⭐ Project-1: Street Style Landing Page⭐
-
-
-
-This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
 <br>
-
-<br>
-
 ## 📌 Tech Stack
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/pk170970)&nbsp;
